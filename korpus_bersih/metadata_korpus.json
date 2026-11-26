@@ -1,0 +1,91 @@
+[
+  {
+    "doc_id": "D1",
+    "filename": "dokumen1.txt",
+    "sumber": "Pemprov Jateng",
+    "judul": "[HOAKS] Sri Sultan Hamengkubuwono X Hentikan MBG di DIY dan Dana MBG Dialihkan untuk Pendidikan",
+    "subjudul": "",
+    "penulis": "Tim.Padhang",
+    "redaktur": "",
+    "tanggal": "23 November 2026",
+    "kategori": "",
+    "url": "Tidak tercantum pada file asli",
+    "elemen_non_isi_dipisahkan": [
+      "Penjelasan:"
+    ],
+    "catatan": "URL artikel tidak tercantum di dalam file .txt asli.",
+    "file_asli": "dokumen1.txt",
+    "file_bersih": "korpus_bersih/dokumen1.txt"
+  },
+  {
+    "doc_id": "D2",
+    "filename": "dokumen2.txt",
+    "sumber": "Tirto",
+    "judul": "Salah, Sri Sultan HB X Minta MBG di Yogyakarta Dihentikan",
+    "subjudul": "Tuntutan penghentian MBG dan pengalihan anggaran berasal dari Humas Aliansi Rakyat Memanggil dalam aksi demonstrasi di Gejayan pada 14 Juni 2026.",
+    "penulis": "Tim Riset Tirto",
+    "redaktur": "",
+    "tanggal": "Terbit 20 Nov 2026 14:00 WIB",
+    "kategori": "",
+    "url": "Tidak tercantum pada file asli",
+    "elemen_non_isi_dipisahkan": [
+      "Penelusuran Fakta",
+      "Kesimpulan"
+    ],
+    "catatan": "URL artikel tidak tercantum di dalam file .txt asli.",
+    "file_asli": "dokumen2.txt",
+    "file_bersih": "korpus_bersih/dokumen2.txt"
+  },
+  {
+    "doc_id": "D3",
+    "filename": "dokumen3.txt",
+    "sumber": "InfoPublik",
+    "judul": "[HOAKS] Sri Sultan Hamengkubuwono X Hentikan MBG di DIY dan Dana MBG Dialihkan untuk Pendidikan",
+    "subjudul": "",
+    "penulis": "Putri",
+    "redaktur": "Redaksi",
+    "tanggal": "Senin, 23 November 2026 | 21:09 WIB",
+    "kategori": "",
+    "url": "Tidak tercantum pada file asli",
+    "elemen_non_isi_dipisahkan": [],
+    "catatan": "URL artikel tidak tercantum di dalam file .txt asli.",
+    "file_asli": "dokumen3.txt",
+    "file_bersih": "korpus_bersih/dokumen3.txt"
+  },
+  {
+    "doc_id": "D4",
+    "filename": "dokumen4.txt",
+    "sumber": "Detik (detikJogja)",
+    "judul": "Heboh Sultan HB X Minta Setop MBG di Jogja buat Pendidikan, Kominfo: Hoax",
+    "subjudul": "",
+    "penulis": "Aditya Mardiastuti - detikJogja",
+    "redaktur": "",
+    "tanggal": "Jumat, 20 Nov 2026 11:15 WIB",
+    "kategori": "",
+    "url": "Tidak tercantum pada file asli",
+    "elemen_non_isi_dipisahkan": [],
+    "catatan": "URL artikel tidak tercantum di dalam file .txt asli.",
+    "file_asli": "dokumen4.txt",
+    "file_bersih": "korpus_bersih/dokumen4.txt"
+  },
+  {
+    "doc_id": "D5",
+    "filename": "dokumen5.txt",
+    "sumber": "Komdigi",
+    "judul": "[HOAKS] Sri Sultan Hamengkubuwono X Hentikan MBG di DIY dan Dana MBG Dialihkan untuk Pendidikan",
+    "subjudul": "",
+    "penulis": "",
+    "redaktur": "",
+    "tanggal": "20 November 2026",
+    "kategori": "Klarifikasi Hoaks / Hoaks",
+    "url": "Tidak tercantum pada file asli",
+    "elemen_non_isi_dipisahkan": [
+      "Klarifikasi Hoaks",
+      "•",
+      "Hoaks•"
+    ],
+    "catatan": "URL artikel tidak tercantum di dalam file .txt asli. Nama penulis tidak tercantum secara eksplisit di file asli.",
+    "file_asli": "dokumen5.txt",
+    "file_bersih": "korpus_bersih/dokumen5.txt"
+  }
+]

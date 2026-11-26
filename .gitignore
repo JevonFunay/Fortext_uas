@@ -1,0 +1,20 @@
+# Python cache & bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local AI / editor / OS files
+.agents/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Streamlit secrets (tetap simpan .streamlit/config.toml di repo)
+.streamlit/secrets.toml
